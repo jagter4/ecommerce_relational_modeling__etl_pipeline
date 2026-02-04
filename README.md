@@ -1,7 +1,7 @@
 # E-Commerce Relational Modeling & ETL Pipeline
 
 ## 📌 Project Overview
-This project demonstrates a ** relational database design workflow** based on business requirements for an e-commerce system.
+This project demonstrates  ** relational database design workflow ** based on business requirements for an e-commerce system.
 
 The scope of the project includes:
 - Analyzing business requirements

@@ -1,0 +1,61 @@
+ProductName,Description,Price,StockQuantity,Category
+Contraption A,,free,unknown,
+Tool B,A high-quality tool.,230.23,160,Apparatus
+Machine C,A high-quality apparatus.,56.75,96,Apparatus
+Device D,,191.7,472,Widgets
+Contraption E,A high-quality gadget.,337.73,233,Instruments
+Appliance F,A high-quality appliance.,336.3,180,
+Gizmo G,,299.74,113,Apparatus
+Contraption H,A high-quality gadget.,144.61,318,Gizmos
+Machine I,A high-quality appliance.,285.01,unknown,Tools
+Device J,,197.63,497,Tools
+Tool K,A high-quality tool.,free,442,
+Machine L,A high-quality machine.,486.14,52,Gizmos
+Machine M,,425.97,268,Appliances
+Gizmo N,A high-quality contraption.,363.65,295,Gizmos
+Apparatus O,A high-quality instrument.,125.63,386,Gizmos
+Device P,,135.47,387,
+Gadget Q,A high-quality machine.,29.81,unknown,Tools
+Machine R,A high-quality device.,358.22,113,Contraptions
+Apparatus S,,64.34,101,Tools
+Gadget T,A high-quality gadget.,225.27,113,Instruments
+Device U,A high-quality device.,free,440,
+Widget V,,108.84,81,Widgets
+Appliance W,A high-quality machine.,448.92,187,Machines
+Apparatus X,A high-quality appliance.,242.93,113,Contraptions
+Instrument Y,,286.01,unknown,Gadgets
+Widget Z,A high-quality instrument.,350.8,2,
+Appliance A,A high-quality instrument.,78.27,130,Machines
+Gizmo B,,306.16,220,Widgets
+Contraption C,A high-quality widget.,274.52,54,Instruments
+Tool D,A high-quality instrument.,109.5,343,Instruments
+Instrument E,,free,485,
+Gizmo F,A high-quality contraption.,472.0,224,Gadgets
+Device G,A high-quality instrument.,303.44,unknown,Contraptions
+Gizmo H,,350.44,225,Appliances
+Contraption I,A high-quality machine.,441.43,385,Gizmos
+Device J,A high-quality widget.,315.93,403,
+Instrument K,,154.86,126,Contraptions
+Contraption L,A high-quality machine.,61.69,130,Appliances
+Gadget M,A high-quality machine.,233.7,53,Instruments
+Tool N,,117.04,172,Tools
+Instrument O,A high-quality gizmo.,free,unknown,
+Gadget P,A high-quality widget.,214.09,218,Widgets
+Appliance Q,,442.81,160,Gadgets
+Instrument R,A high-quality machine.,168.93,198,Widgets
+Appliance S,A high-quality gizmo.,69.82,416,Devices
+Device T,,184.59,247,
+Gadget U,A high-quality gizmo.,454.35,324,Devices
+Tool V,A high-quality widget.,143.34,439,Contraptions
+Contraption W,,327.37,unknown,Instruments
+Machine X,A high-quality device.,10.25,203,Instruments
+Gizmo Y,A high-quality appliance.,free,184,
+Widget Z,,182.76,123,Gizmos
+Tool A,A high-quality contraption.,159.34,401,Gizmos
+Gadget B,A high-quality appliance.,90.68,255,Gizmos
+Machine C,,271.7,294,Tools
+Tool D,A high-quality instrument.,247.57,280,
+Gadget E,A high-quality contraption.,349.29,unknown,Machines
+Apparatus F,,142.01,325,Apparatus
+Apparatus G,A high-quality instrument.,129.62,372,Machines
+Appliance H,A high-quality machine.,92.46,98,Widgets

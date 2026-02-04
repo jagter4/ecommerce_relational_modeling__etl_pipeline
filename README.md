@@ -1,6 +1,6 @@
 # E-Commerce Relational Modeling & ETL Pipeline
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates **relational database design workflow** based on business requirements for an e-commerce system.
 
 The scope of the project includes:
@@ -29,14 +29,14 @@ Design principles applied:
 - Enforcement of business rules at the database level
 - Referential integrity between related entities
 
-📊 **Logical Schema Diagram:**  
+ **Logical Schema Diagram:**  
 
 ![Logical Schema Diagram](docs/logical%20schema.png)
 
 ---
 
 
-## 🔄 Data Loading (ETL Process)
+##  Data Loading (ETL Process)
 A data loading pipeline was implemented to populate the relational database tables with operational data.
 
 ### Data Sources
@@ -76,7 +76,7 @@ These checks help ensure that the database accurately reflects the business rule
 
 
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 .
 ├── .env
